@@ -16,3 +16,9 @@ h1 {
   text-align: center;
   padding-top: 50px;
 }
+
+p {
+  color: chartreuse;
+  text-align: center;
+  font-size: 30px;
+}
