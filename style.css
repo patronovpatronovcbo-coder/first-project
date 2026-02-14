@@ -12,4 +12,7 @@ div {
 
 h1 {
   color: rgb(245, 20, 20);
+  justify-content: center;
+  text-align: center;
+  padding-top: 50px;
 }
